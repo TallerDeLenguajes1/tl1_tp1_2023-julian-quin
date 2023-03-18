@@ -8,5 +8,5 @@ Porque puede ocurrir que durante nuestro manejo de esos archivos se creen archiv
 # punto 3g)
 - Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué?
 
-claramente el puntero está almacenando la direccion de memoria de la variable, por lo que es obvio que va a coincidir el contenido que alamacenado en ese puntero con la direccion de memoria de la variable en cuestion.
+claramente el puntero está almacenando la direccion de memoria de la variable, por lo que es obvio que va a coincidir el contenido alamacenado en ese puntero con la direccion de memoria de la variable en cuestion.
 la direccion de memoria del puntero no tiene nada que ver con la direccion de memoria de la variable a la cual apunta ese puntero. Es algo aparte.
